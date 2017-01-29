@@ -1,0 +1,31 @@
+{
+  "name": "yarn-run",
+  "version": "1.0.0",
+  "description": "yarn run executables for locally-installed packages without using ./node_modules/.bin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "yarn-run": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soenkekluth/yarn-run.git"
+  },
+  "keywords": [
+    "yarn",
+    "run",
+    "local",
+    "modules"
+  ],
+  "author": "Sönke Kluth <soenke.kluth@gmail.com> (http://soenkekluth.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/soenkekluth/yarn-run/issues"
+  },
+  "homepage": "https://github.com/soenkekluth/yarn-run#readme",
+  "dependencies": {
+    "npm-run-path": "^2.0.2"
+  }
+}
