@@ -1,6 +1,6 @@
 {
   "name": "yarn-run",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "yarn run executables for locally-installed packages without using ./node_modules/.bin",
   "main": "index.js",
   "scripts": {
