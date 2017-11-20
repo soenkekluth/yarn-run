@@ -1,4 +1,6 @@
 # yarn-run
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/soenkekluth/yarn-run.svg)](https://greenkeeper.io/)
 Run locally-installed node module executables with yarn.
 
 
